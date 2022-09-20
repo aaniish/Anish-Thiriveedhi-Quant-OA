@@ -1,6 +1,12 @@
 import React from 'react'
 import './ImageCarousel.css';
-import { Carousel } from "react-bootstrap"
+import image1 from "./assets/image1.jpeg";
+import image2 from "./assets/image2.jpeg";
+import image3 from "./assets/image3.png";
+import image4 from "./assets/image4.jpeg";
+import image5 from "./assets/image5.jpeg";
+import { Carousel } from "react-bootstrap";
+
 
 export default function ImageCarousel() {
     return (
@@ -12,31 +18,31 @@ export default function ImageCarousel() {
         <Carousel fade indicators={false} interval={2000} style={{textAlign: 'center'}}>
             <Carousel.Item>
                 <img
-                    src="/assets/image1.jpeg"
+                    src={image1}
                     alt="First slide"
                 />
             </Carousel.Item>
             <Carousel.Item>
                 <img
-                    src="/assets/image2.jpeg"
+                    src={image2}
                     alt="Second slide"
                 />
             </Carousel.Item>
             <Carousel.Item>
                 <img
-                    src="/assets/image3.png"
+                    src={image3}
                     alt="Third slide"
                 />
             </Carousel.Item>
             <Carousel.Item>
                 <img
-                    src="/assets/image4.jpeg"
+                    src={image4}
                     alt="fourth slide"
                 />
             </Carousel.Item>
             <Carousel.Item>
                 <img
-                    src="/assets/image5.jpeg"
+                    src={image5}
                     alt="fifth slide"
                 />
             </Carousel.Item>
