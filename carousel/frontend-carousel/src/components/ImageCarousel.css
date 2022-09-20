@@ -1,9 +1,15 @@
+/*
+Sets the properties of all the images in the carousel. Currently set to resize all images to the same dimensions. 
+*/
 img {
     width:  600px;
     height: 800px;
     object-fit: cover;
 }
 
+/*
+Hides the controls for the navigation between images in the carousel.
+*/
 .carousel-control-next-icon{
     visibility: hidden;;
 }
