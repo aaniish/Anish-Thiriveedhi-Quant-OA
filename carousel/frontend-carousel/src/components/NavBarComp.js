@@ -12,7 +12,7 @@ export default function NavBarComp() {
         styling from bootstrap. Navbar.Toggle placed in order to implement mobile adaption for navigation. Classname for Nav is 
         set accordingly in order to even spread links across the navbar in the center. 
         */
-        <Navbar expand="lg" style={{padding: 25}}>
+        <Navbar expand="lg" style={{padding: 50}}>
             <Navbar.Toggle aria-controls="basic-navbar-nav" />
             <Navbar.Collapse>
                 <Nav className="flex-grow-1 justify-content-evenly">
