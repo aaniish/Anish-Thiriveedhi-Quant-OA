@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Anish-Thiriveedhi-Quant-OA/static/css/main.47c4a7a3.css",
+    "main.js": "/Anish-Thiriveedhi-Quant-OA/static/js/main.2f2b813c.js",
+    "static/media/image3.png": "/Anish-Thiriveedhi-Quant-OA/static/media/image3.db3923c2d08007ddf0c1.png",
+    "static/media/image2.jpeg": "/Anish-Thiriveedhi-Quant-OA/static/media/image2.98a22fb998d5bbe7019a.jpeg",
+    "static/media/image1.jpeg": "/Anish-Thiriveedhi-Quant-OA/static/media/image1.09db9ed98fa34d07af48.jpeg",
+    "static/media/image4.jpeg": "/Anish-Thiriveedhi-Quant-OA/static/media/image4.c2fa169a00bc6d7d20d8.jpeg",
+    "static/media/image5.jpeg": "/Anish-Thiriveedhi-Quant-OA/static/media/image5.bae3da74da3eef16731a.jpeg",
+    "index.html": "/Anish-Thiriveedhi-Quant-OA/index.html",
+    "main.47c4a7a3.css.map": "/Anish-Thiriveedhi-Quant-OA/static/css/main.47c4a7a3.css.map",
+    "main.2f2b813c.js.map": "/Anish-Thiriveedhi-Quant-OA/static/js/main.2f2b813c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.47c4a7a3.css",
+    "static/js/main.2f2b813c.js"
+  ]
+}
